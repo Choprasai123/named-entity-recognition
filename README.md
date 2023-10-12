@@ -40,8 +40,8 @@ We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM
 ```
-Developed By:P.Siva Naga Nithin
-Reg.No:212221240037
+Developed By:Arani Chopra Sai
+Reg.No:212220040011
 ```
 ```
 import matplotlib.pyplot as plt
